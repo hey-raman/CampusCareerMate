@@ -109,17 +109,8 @@ Track stages: - Wishlist
 
 # 🏗️ Tech Stack
 
-Frontend: React.js / Next.js, Tailwind CSS\
+Frontend: Flutter
 Backend: Render
-Deployment: Vercel 
-
-------------------------------------------------------------------------
-
-# ⚙️ Installation
-
-git clone https://github.com/amitraghvan/campus-careers-mate.git cd placetrack
-npm install
-npm run dev
 
 ------------------------------------------------------------------------
 
@@ -145,3 +136,4 @@ High student impact
 # 📜 License
 
 MIT License
+
