@@ -17,16 +17,16 @@ Every year, thousands of students miss dream companies --- not because
 they lack skills, but because they miss deadlines or lose track of
 applications.
 
-Current placement tracking methods: - WhatsApp groups\
-- Emails\
-- Screenshots\
-- Excel sheets\
+Current placement tracking methods: - WhatsApp groups
+- Emails
+- Screenshots
+- Excel sheets
 - Memory
 
-Problems: - Missed deadlines\
-- No application tracking\
-- Scattered preparation notes\
-- No analytics or insights\
+Problems: - Missed deadlines
+- No application tracking
+- Scattered preparation notes
+- No analytics or insights
 - High stress during placements
 
 There is no unified system acting as a single source of truth.
@@ -36,11 +36,11 @@ There is no unified system acting as a single source of truth.
 # 💡 Solution --- PlaceTrack
 
 PlaceTrack is a smart placement management portal that helps students: -
-Track opportunities\
-- Manage application pipeline\
-- Monitor deadlines\
-- Organize preparation\
-- Connect with peers\
+Track opportunities
+- Manage application pipeline
+- Monitor deadlines
+- Organize preparation
+- Connect with peers
 - Analyze placement performance
 
 It works like a personal placement CRM for students.
@@ -51,58 +51,58 @@ It works like a personal placement CRM for students.
 
 ## 🏠 Smart Dashboard
 
--   Total opportunities\
--   Upcoming deadlines\
--   Offers received\
--   Applications in progress\
--   Daily focus goals\
+-   Total opportunities
+-   Upcoming deadlines
+-   Offers received
+-   Applications in progress
+-   Daily focus goals
 -   Peer suggestions
 
 ## 🌍 Explore Opportunities
 
--   Discover internships & jobs\
--   Filter by role, company, skill\
--   Trending opportunities\
+-   Discover internships & jobs
+-   Filter by role, company, skill
+-   Trending opportunities
 -   Personalized recommendations
 
 ## 📊 Application Pipeline Tracker
 
-Track stages: - Wishlist\
-- Applied\
-- Interview\
+Track stages: - Wishlist
+- Applied
+- Interview
 - Offer
 
 ## 📅 Smart Calendar & Deadline Manager
 
--   Application deadlines\
--   Interview schedules\
--   Status indicators\
+-   Application deadlines
+-   Interview schedules
+-   Status indicators
 -   Placement calendar
 
 ## 📝 Preparation Notes System
 
--   Interview notes\
--   Company research\
--   Technical prep\
+-   Interview notes
+-   Company research
+-   Technical prep
 -   HR prep
 
 ## 🤝 Peer Connect Network
 
--   Connect with students\
--   Find study partners\
+-   Connect with students
+-   Find study partners
 -   Collaborate
 
 ## 📈 Analytics Dashboard
 
--   Total applications\
--   Success rate\
--   Offer tracking\
+-   Total applications
+-   Success rate
+-   Offer tracking
 -   Trends & insights
 
 ## 📧 Cold Email Tracker
 
--   Track outreach\
--   Manage responses\
+-   Track outreach
+-   Manage responses
 -   Follow-ups
 
 ------------------------------------------------------------------------
@@ -110,35 +110,34 @@ Track stages: - Wishlist\
 # 🏗️ Tech Stack
 
 Frontend: React.js / Next.js, Tailwind CSS\
-Backend: Firebase / Supabase\
-Deployment: Vercel / Firebase
+Backend: Render
+Deployment: Vercel 
 
 ------------------------------------------------------------------------
 
 # ⚙️ Installation
 
-git clone https://github.com/yourusername/placetrack.git\
-cd placetrack\
-npm install\
+git clone https://github.com/amitraghvan/campus-careers-mate.git cd placetrack
+npm install
 npm run dev
 
 ------------------------------------------------------------------------
 
 # 🚀 Future Scope
 
--   AI resume analyzer\
--   AI interview assistant\
--   Smart recommendations\
--   Mobile app\
+-   AI resume analyzer
+-   AI interview assistant
+-   Smart recommendations
+-   Mobile app
 -   College integration
 
 ------------------------------------------------------------------------
 
 # 🏆 Hackathon Value
 
-Real-world problem solving\
-Clean UI/UX\
-Scalable architecture\
+Real-world problem solving
+Clean UI/UX
+Scalable architecture
 High student impact
 
 ------------------------------------------------------------------------
